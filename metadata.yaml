@@ -1,0 +1,47 @@
+_repo: La-Faute-de-l-abb--Mouret_6558
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+    - http://en.wikipedia.org/wiki/Émile_Zola
+description: "La Faute de l'Abbé Mouret (1875) is the fifth novel in Émile Zola's\
+  \ twenty-volume series Les Rougon-Macquart. Viciously anticlerical in tone, it follows\
+  \ on from the horrific events at the end of La Conquête de Plassans, focussing this\
+  \ time on a remote Provençal backwater village.\nUnusually for Zola, the novel contains\
+  \ very few characters and locations, and the level of realist observation compared\
+  \ to outright fantasy is most uncharacteristic; however, the novel remains extraordinarily\
+  \ powerful and readable, and is considered one of Zola's most linguistically inventive\
+  \ and well-crafted works.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6558'
+  wikidata: Q2610567
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature'
+- !lcc 'PQ'
+- GITenberg
+title: La Faute de l'abbé Mouret
+url: http://www.gutenberg.org/ebooks/6558
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_Faute_de_l%27abb%C3%A9_Mouret
+- https://pt.wikipedia.org/wiki/La_faute_de_l%27abb%C3%A9_Mouret
+- https://cs.wikipedia.org/wiki/H%C5%99%C3%ADch_abb%C3%A9ho_Moureta
+- https://fa.wikipedia.org/wiki/%DA%AF%D9%86%D8%A7%D9%87_%DA%A9%D8%B4%DB%8C%D8%B4_%D9%85%D9%88%D8%B1%D9%87
+- https://de.wikipedia.org/wiki/Die_S%C3%BCnde_des_Abb%C3%A9_Mouret
+- https://pl.wikipedia.org/wiki/Grzech_ksi%C4%99dza_Mouret
+- https://en.wikipedia.org/wiki/La_Faute_de_l%27Abb%C3%A9_Mouret
+- https://it.wikipedia.org/wiki/La_colpa_dell%27abate_Mouret
+- https://fr.wikisource.org/wiki/La_Faute_de_l%E2%80%99abb%C3%A9_Mouret
