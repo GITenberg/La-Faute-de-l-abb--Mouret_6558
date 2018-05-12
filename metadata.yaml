@@ -1,5 +1,8 @@
 _repo: La-Faute-de-l-abb--Mouret_6558
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zola, Émile
@@ -19,6 +22,8 @@ description: "La Faute de l'Abbé Mouret (1875) is the fifth novel in Émile Zol
   \ to outright fantasy is most uncharacteristic; however, the novel remains extraordinarily\
   \ powerful and readable, and is considered one of Zola's most linguistically inventive\
   \ and well-crafted works.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6558#La-Faute-de-l-abb--Mouret
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
